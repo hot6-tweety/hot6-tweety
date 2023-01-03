@@ -9,7 +9,7 @@
 <br/>
 
 ## About Me
-- 📰 [Portfolio](https://asf)  
+- 📰 [Portfolio]([https://asf](https://hot6tweety.notion.site/hot6tweety/Young-June-Kim-0fdae1b67ce7491c9524303d55699211))  
 - 📫 hot6tweety@gmail.com
 
 <br/>
@@ -21,10 +21,6 @@
 ![Kotlin](https://img.shields.io/badge/Java-orange?style=square&logo=java&logoColor=white)
 
 <br/>
-
-
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 

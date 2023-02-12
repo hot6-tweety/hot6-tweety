@@ -1,15 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=KimYoungJune&fontAlign=50&fontAlignY=40&color=timeGradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 
-## Intro
-> 😄 **안녕하세요. 안드로이드 개발자를 목표로 취업 준비하고 있습니다.**  
-👀 **코딩, 헬스, 독서 를 좋아합니다.**
-
-<br/>
-
-## About Me
-- 📰 [Portfolio](https://hot6tweety.notion.site/hot6tweety/Young-June-Kim-0fdae1b67ce7491c9524303d55699211)  
-- 📫 hot6tweety@gmail.com
+👀 **코딩, 헬스, 독서를 좋아합니다.**
 
 <br/>
   
